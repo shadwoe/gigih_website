@@ -1,0 +1,150 @@
+/* CSS reset */
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td { 
+    margin:0;
+    padding:0;
+}
+html,body {
+    margin:0;
+    padding:0;
+}
+table {
+    border-collapse:collapse;
+    border-spacing:0;
+}
+fieldset,img { 
+    border:0;
+}
+input{
+    border:1px solid #b0b0b0;
+    padding:3px 5px 4px;
+    color:#979797;
+    width:190px;
+}
+address,caption,cite,code,dfn,th,var {
+    font-style:normal;
+    font-weight:normal;
+}
+ol,ul {
+    list-style:none;
+}
+caption,th {
+    text-align:left;
+}
+h1,h2,h3,h4,h5,h6 {
+    font-size:100%;
+    font-weight:normal;
+}
+q:before,q:after {
+    content:'';
+}
+abbr,acronym { border:0;
+}
+
+
+
+
+.display-5{
+    color:#808080;
+   
+}
+.jumbotron{
+            margin-top: 30px;
+            background-color: rgb(219, 210, 210);
+            color: black;
+            
+}
+section {
+        min-height: 950px;
+        padding-top: 90px; 
+   
+}
+.gambar{
+        margin-top: 20px;
+
+}
+
+   
+
+hr{
+    width: 200px;
+    border-top: 3px dotted #808080;
+}
+.kanan{
+    border: 1px solid #C0C0C0;
+    border-radius: 10px;
+    margin-top: 20px;
+    
+
+}
+.corousal{
+    margin-top: 20px;
+    border: 1 solid #C0C0C0;
+}
+
+.ml{
+    margin-left: 20px;
+    
+}
+.nav-link{
+    color: aliceblue;
+}
+
+.GALLERY{
+    background-color: rgb(219, 210, 210);
+
+}
+h2{
+    font-size: 27px;
+}
+.gal{
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+.contact{
+        background-color: #A96B84;
+        min-height: 800px;
+}
+.cont-b{
+    border-right: 2px solid #11191C;
+}
+.medsos{
+    margin-top: 25px;
+}
+.medsos img, {
+    margin: 5px 0;
+
+}
+.medsos a{
+    color: rgb(59, 51, 51);
+    text-decoration: none;
+    padding-left: 5px;
+}
+.contact{
+        padding-top: 90px;
+}
+.medsos a:hover{
+                color: black;
+}
+
+
+.cont{
+    background-color: rgba(86,78,104,0.5);
+    padding:20px;
+    border-radius: 6px;
+}
+.contact hr{
+            border-top: 2px dotted black;
+}
+footer{
+        background-color:black;
+        height: 200px;
+        color: white;
+        text-align: center;
+        
+}
+.foot{
+    padding-top: 20px;
+}.foot a{
+    color: white;
+    
+}
